@@ -10,10 +10,7 @@
     var div=document.querySelector('#xy')
     console.log(spna[10].innerText)
     let s
-    
-   //bunda resimler vs gelmiyor
 
-   //SADECE ARAMA KISMI KALDI
    
     btn2.addEventListener('click',e=>{
         div.innerHTML=' '
